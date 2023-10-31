@@ -4,14 +4,16 @@ tags:
   - DNA sequence data
   - specimens
 authors:
-  - name: 
-    orcid: 0000-0003-2244-1002
+  - name: Joana Paupério
+    orcid: 0000-0003-2569-0768
     affiliation: 1
   - name: Quentin Groom
     orcid: 0000-0002-0596-5376
     affiliation: 3  
     
 affiliations:
+ - name: European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge, CB10 1SD, United Kingdom
+   index: 1
  - name: Meise Botanic Garden, Nieuwelaan 38, 1860 Meise, Belgium
    index: 3
 date: 31. Oct 2023
