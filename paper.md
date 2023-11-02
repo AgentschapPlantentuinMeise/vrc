@@ -9,10 +9,10 @@ authors:
   - affiliation: 1
   - name: Gabi Dröge
   - orcid: 
-  - name: affiliation: 4
+  - affiliation: 4
   - name: Sam Leeflang
   - orcid: 0000-0002-5669-2769
-  - name: affiliation: 3
+  - affiliation: 3
   - name: Marcus Ernst
   - orcid: 
   - affiliation: 4
