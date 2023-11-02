@@ -7,15 +7,43 @@ authors:
   - name: Joana Paupério
     orcid: 0000-0003-2569-0768
     affiliation: 1
+    name: Gabi Dröge
+    orcid: 
+  - name: affiliation: 4
+  - name: Sam Leeflang
+    orcid: 0000-0002-5669-2769
+  - name: affiliation: 3
+    name: Marcus Ernst
+    orcid: 
+    affiliation: 4
+  - name: Vikas Gupta
+    orcid: 0000-0001-9465-8716
+    affiliation: 1
+  - name: Anton Güntsch
+  - orcid: 0000-0002-4325-4030
+  - affiliation: 4
+  - name: Jörg Holetschek
+  - orcid: 0000-0002-3310-1794
+  - affiliation: 4
+  - Soulaine Theocharides
+  - orcid: 0000-0001-7573-4330
+  - affiliation: 3
   - name: Quentin Groom
     orcid: 0000-0002-0596-5376
-    affiliation: 3  
+    affiliation: 3
+
+
     
 affiliations:
  - name: European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge, CB10 1SD, United Kingdom
    index: 1
  - name: Meise Botanic Garden, Nieuwelaan 38, 1860 Meise, Belgium
-   index: 3
+   index: 2
+ - name : Naturalis Biodiversity Center
+ - index: 3
+ - name: Botanic Garden and Botanical Museum Berlin, Freie Universität Berlin, Koenigin-Luise-Str. 6-8, 14195 Berlin, Germany
+ - index: 4
+
 date: 31. Oct 2023
 bibliography: paper.bib
 authors_short: Pauperio et al.
