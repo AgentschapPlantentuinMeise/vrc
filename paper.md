@@ -18,7 +18,7 @@ authors:
     affiliation: 4
   - name: Vikas Gupta
     orcid: 0000-0001-9465-8716
-   affiliation: 1
+    affiliation: 1
   - name: Anton Güntsch
     orcid: 0000-0002-4325-4030
     affiliation: 4
