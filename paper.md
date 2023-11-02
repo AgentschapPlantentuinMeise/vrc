@@ -7,8 +7,8 @@ authors:
   - name: Joana Paupério
     orcid: 0000-0003-2569-0768
     affiliation: 1
-  - name: Gabi Dröge
-    orcid: 
+  - name: Gabi Droege
+    orcid: 0009-0007-6673-7274
     affiliation: 2
   - name: Marcus Ernst
     orcid: 
@@ -60,6 +60,7 @@ biohackathon_location: Barcelona, Spain
 ## Discussion and conclusions
 
 ## Acknowledgements
+QG, JH, VG & ST acknowledge funding through the BiCIKL project that receives funding from the European Union's Horizon 2020 Research and Innovation Action under grant agreement No 101007492. JP & SL were funded by ELIXIR, the research infrastructure for life-science data. We thank the organizers of the BioHackathon Europe for all their hard work in making the event a success.
 
 ## References
 
