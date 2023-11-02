@@ -5,20 +5,20 @@ tags:
   - specimens
 authors:
   - name: Joana Paupério
-    orcid: 0000-0003-2569-0768
-    affiliation: 1
-    name: Gabi Dröge
-    orcid: 
+  - orcid: 0000-0003-2569-0768
+  - affiliation: 1
+  - name: Gabi Dröge
+  - orcid: 
   - name: affiliation: 4
   - name: Sam Leeflang
-    orcid: 0000-0002-5669-2769
+  - orcid: 0000-0002-5669-2769
   - name: affiliation: 3
-    name: Marcus Ernst
-    orcid: 
-    affiliation: 4
+  - name: Marcus Ernst
+  - orcid: 
+  - affiliation: 4
   - name: Vikas Gupta
-    orcid: 0000-0001-9465-8716
-    affiliation: 1
+  - orcid: 0000-0001-9465-8716
+  - affiliation: 1
   - name: Anton Güntsch
   - orcid: 0000-0002-4325-4030
   - affiliation: 4
@@ -29,14 +29,14 @@ authors:
   - orcid: 0000-0001-7573-4330
   - affiliation: 3
   - name: Quentin Groom
-    orcid: 0000-0002-0596-5376
-    affiliation: 3
+  - orcid: 0000-0002-0596-5376
+  - affiliation: 3
 
 
     
 affiliations:
  - name: European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge, CB10 1SD, United Kingdom
-   index: 1
+- index: 1
  - name: Meise Botanic Garden, Nieuwelaan 38, 1860 Meise, Belgium
    index: 2
  - name : Naturalis Biodiversity Center
