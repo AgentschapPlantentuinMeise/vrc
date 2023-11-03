@@ -35,9 +35,7 @@ authors:
 affiliations:
  - name: European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge, CB10 1SD, United Kingdom
    index: 1
- - name: Center for Biodiversity Informatics and Collection Data Integration 
-Botanic Garden and Botanical Museum Berlin, Freie Universität Berlin
-Königin-Luise-Str. 6-8, 14195 Berlin, Germany
+ - name: Center for Biodiversity Informatics and Collection Data Integration Botanic Garden and Botanical Museum Berlin, Freie Universität Berlin Königin-Luise-Str. 6-8, 14195 Berlin, Germany
    index: 2
  - name : Naturalis Biodiversity Center, Leiden, Netherlands
    index: 3
