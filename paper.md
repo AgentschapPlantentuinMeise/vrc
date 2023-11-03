@@ -13,12 +13,12 @@ authors:
   - name: Marcus Ernst
     orcid: 
     affiliation: 2
+  - name: Anton Güntsch
+    orcid: 0000-0002-4325-4030
+    affiliation: 2    
   - name: Vikas Gupta
     orcid: 0000-0001-9465-8716
     affiliation: 1
-  - name: Anton Güntsch
-    orcid: 0000-0002-4325-4030
-    affiliation: 2
   - name: Jörg Holetschek
     orcid: 0000-0002-3310-1794
     affiliation: 2
