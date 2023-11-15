@@ -1,51 +1,60 @@
 ---
-title: 'Improved linking from sequence data to specimens and samples repositories'
+title: 'Automating the building of a virtual, distributed pollinator reference collection'
 tags:
-  - DNA sequence data
-  - specimens
+  - Bombus
+  - specimens-
+  - GBIF
+  - Darwin Core
+  - DiSSCo
 authors:
-  - name: Joana Paupério
-    orcid: 0000-0003-2569-0768
+  - name: Sofie Meeus
+    orcid: 0000-0003-0715-8647
     affiliation: 1
-  - name: Gabi Droege
-    orcid: 0009-0007-6673-7274
+  - name: Jere Kahanpää
+    orcid: 0000-0003-1485-5272
     affiliation: 2
-  - name: Marcus Ernst
-    orcid: 
-    affiliation: 2
-  - name: Anton Güntsch
-    orcid: 0000-0002-4325-4030
-    affiliation: 2    
-  - name: Vikas Gupta
-    orcid: 0000-0001-9465-8716
+  - name: Andra Waagmeester
+    orcid: 0000-0001-9773-4008
+    affiliation: 3
+  - name: Laura Abraham
+    orcid: 0000-0003-4070-2982
     affiliation: 1
-  - name: Jörg Holetschek
-    orcid: 0000-0002-3310-1794
-    affiliation: 2
-  - name: Sam Leeflang
-    orcid: 0000-0002-5669-2769
-    affiliation: 3
-  - name: Soulaine Theocharides
-    orcid: 0000-0001-7573-4330
-    affiliation: 3
+  - name: Melanie De Nolf
+    orcid: 0000-0001-6032-5198
+    affiliation: 1
+  - name: Tom Dijkema
+    orcid: 0000-0001-9790-9277
+    affiliation: 4
   - name: Quentin Groom
     orcid: 0000-0002-0596-5376
-    affiliation: 4
+    affiliation: 1
+  - name: Teemu Kataja
+    orcid: 0009-0001-1434-0415
+    affiliation: 2
+  - name: William Morris
+    orcid: 0000-0002-8686-4154
+    affiliation: 5
+  - name: Jorrit Poelen
+    orcid: 0000-0003-3138-4118
+    affiliation: 6
 
 affiliations:
- - name: European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridge, CB10 1SD, United Kingdom
-   index: 1
- - name: Center for Biodiversity Informatics and Collection Data Integration Botanic Garden and Botanical Museum Berlin, Freie Universität Berlin Königin-Luise-Str. 6-8, 14195 Berlin, Germany
-   index: 2
- - name : Naturalis Biodiversity Center, Leiden, Netherlands
-   index: 3
  - name: Biodiversity Informatics, Meise Botanic Garden, Nieuwelaan 38, 1860 Meise, Belgium
+   index: 1
+ - name: Finnish Museum of Natural History, Luomus, University of Helsinki, Finland.
+   index: 2
+ - name : Micelio BV, Ekeren, Belgium
+   index: 3
+ - name: Naturalis Biodiversity Center, Leiden, Netherlands
    index: 4
+ - name: Biodiversity Informatics Unit, Finnish Museum of Natural History, Helsinki, Finland
+   index: 5
+ - name: Ronin Institute for Independent Scholarship, Montclair, New Jersey, USA
 
 date: 31. Oct 2023
 bibliography: paper.bib
-authors_short: Pauperio et al.
-group: Project 22
+authors_short: Meeus et al.
+group: Project 3
 event: Biohackathon Europe 2023
 biohackathon_name: BioHackathon Europe, Barcelona, Spain, 2023
 biohackathon_url: https://biohackathon-europe.org/
@@ -61,7 +70,6 @@ biohackathon_location: Barcelona, Spain
 ## Discussion and conclusions
 
 ## Acknowledgements
-QG, JH, VG & ST acknowledge funding through the BiCIKL project that receives funding from the European Union's Horizon 2020 Research and Innovation Action under grant agreement No 101007492. JP & SL were funded by ELIXIR, the research infrastructure for life-science data. We thank the organizers of the BioHackathon Europe for all their hard work in making the event a success.
 
 ## References
 
